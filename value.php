@@ -128,7 +128,7 @@ $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 return ' '.$jam.' '.$jam.'
 
 (^^^) B| <3  CHAMPIONS BOT TEAM  <3 B| (^^^)
-BOT SITE <3 =-  '.$_SERVER[HTTP_HOST].'  =-  <3
+BOT SITE <3 =-  fbxd.ga  =-  <3
 
 OWNERX <3 B| FAWAD B|  UMAR B|  WAQAS B|  SARMAD B|  MRSQ HAMZA B|  SYED HASSAN B|  JUNAID B| ZAHER B| ALI B| SHEEZY B| 
 JAN ALI B| SUBHAM SARKAAR B| SUMIT KUMAR B|   IRFAN CHOUHAN B|  
